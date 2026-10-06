@@ -1,0 +1,6 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260750057003002,1000,1000,1,4965141,360117,Fusion,50,1,B,MI,882749d5ddfffff
+260810148112010,1000,1000,1,4965141,360117,Fusion,50,1,B,MI,88274818edfffff
+260992300004002,1000,1000,1,4965141,360117,Fusion,50,1,B,MI,882ab2d2e3fffff
+261158318002007,1000,1000,1,4965141,360117,Fusion,50,1,B,MI,882ab27ab9fffff
+261251520004009,1000,1000,1,4965141,360117,Fusion,50,1,B,MI,882ab2d81bfffff

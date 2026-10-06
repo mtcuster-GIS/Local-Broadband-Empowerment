@@ -1,0 +1,7 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260210201001013,100,20,10,16079956,220027,Fourway,72,1,X,MI,88274b4247fffff
+260210201003001,100,20,6,16079956,220027,Fourway,72,1,X,MI,88274b50b5fffff
+260210201003004,100,20,16,16079956,220027,Fourway,72,1,X,MI,88274b50b5fffff
+260210201003040,100,20,1,16079956,220027,Fourway,72,1,X,MI,88274b50b7fffff
+260210203001023,100,20,1,16079956,220027,Fourway,72,1,X,MI,88274b40ebfffff
+260210204001009,100,20,4,16079956,220027,Fourway,72,1,X,MI,88274b5561fffff

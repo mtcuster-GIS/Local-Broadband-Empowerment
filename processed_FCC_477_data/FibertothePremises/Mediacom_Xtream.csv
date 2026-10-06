@@ -1,0 +1,9 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+261590110031040,1000,50,19,7282312,130804,Mediacom Xtream,50,1,X,MI,88274bd653fffff
+261590110032005,1000,50,12,7282312,130804,Mediacom Xtream,50,1,X,MI,88274bd60bfffff
+261590119001011,1000,50,9,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff
+261590119001012,1000,50,10,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff
+261590119001019,1000,50,33,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff
+261590119001020,1000,50,2,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff
+261590119001025,1000,50,3,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff
+261590119001028,1000,50,27,7282312,130804,Mediacom Xtream,50,1,X,MI,8827486cb1fffff

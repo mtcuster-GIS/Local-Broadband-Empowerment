@@ -1,0 +1,3 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260439501002024,25,5,1,21025770,270077,SonicNet Inc,70,1,R,MI,8827460767fffff
+260439501002025,25,5,53,21025770,270077,SonicNet Inc,70,1,R,MI,8827460767fffff

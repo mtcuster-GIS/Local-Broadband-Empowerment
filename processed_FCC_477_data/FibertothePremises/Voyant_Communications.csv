@@ -1,0 +1,5 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260450210011034,100,100,1,15331689,310026,Voyant Communications,50,1,B,MI,882748a521fffff
+260450213011043,30,30,1,15331689,310026,Voyant Communications,50,1,B,MI,882748a483fffff
+260450213023028,100,100,1,15331689,310026,Voyant Communications,50,1,B,MI,882749d16dfffff
+260650053031007,100,100,1,15331689,310026,Voyant Communications,50,1,B,MI,88274d6b2dfffff

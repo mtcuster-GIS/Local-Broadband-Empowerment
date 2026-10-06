@@ -1,0 +1,5 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260439502001107,50,3,1,4322178,130937,Nsight Telservices,10,1,X,MI,8827462a0dfffff
+260439506002036,75,3,1,4322178,130937,Nsight Telservices,10,1,X,MI,88274628cdfffff
+260439507002000,50,3,2,4322178,130937,Nsight Telservices,10,1,X,MI,8827462a0dfffff
+260710005003046,50,3,1,4322178,130937,Nsight Telservices,10,1,X,MI,88274676edfffff

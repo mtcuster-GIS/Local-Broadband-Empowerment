@@ -1,0 +1,6 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+261635173001002,500,100,19,28709962,410031,DigitalC,70,1,R,MI,882ab2c513fffff
+261635173001003,500,100,6,28709962,410031,DigitalC,70,1,R,MI,882ab2c513fffff
+261635173001007,500,100,9,28709962,410031,DigitalC,70,1,R,MI,882ab2c5c5fffff
+261635173001008,500,100,22,28709962,410031,DigitalC,70,1,R,MI,882ab2c513fffff
+261635189001010,500,100,26,28709962,410031,DigitalC,70,1,R,MI,882ab2c513fffff

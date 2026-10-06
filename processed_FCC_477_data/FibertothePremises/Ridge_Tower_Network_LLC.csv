@@ -1,0 +1,5 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260070001023000,1000,1000,7,29174828,440167,Ridge Tower Network LLC,50,1,X,MI,8827684d59fffff
+260070001024002,1000,1000,2,29174828,440167,Ridge Tower Network LLC,50,1,X,MI,8827684d59fffff
+260070001024006,1000,1000,9,29174828,440167,Ridge Tower Network LLC,50,1,X,MI,8827684d53fffff
+260070001024008,1000,1000,4,29174828,440167,Ridge Tower Network LLC,50,1,X,MI,8827684c25fffff

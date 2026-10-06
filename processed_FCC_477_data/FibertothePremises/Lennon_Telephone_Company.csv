@@ -1,0 +1,15 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260490127031016,400,10,3,3708104,130734,Lennon Telephone Company,50,1,B,MI,88274d11b5fffff
+261550301004009,400,10,3,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1aa9fffff
+261550301004014,400,10,32,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1889fffff
+261550301004015,400,10,18,3708104,130734,Lennon Telephone Company,50,1,B,MI,88274d1889fffff
+261550301005001,400,10,7,3708104,130734,Lennon Telephone Company,50,1,B,MI,88274d1addfffff
+261550301005007,400,10,2,3708104,130734,Lennon Telephone Company,50,1,B,MI,88274d1a85fffff
+261550301005010,400,10,2,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1aabfffff
+261550301005011,400,10,7,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1ab1fffff
+261550301005013,400,10,1,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1a81fffff
+261550301005014,400,10,2,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1a8dfffff
+261550301005015,400,10,2,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1a8dfffff
+261550301005017,400,10,23,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d1a81fffff
+261550301005030,400,10,10,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d0327fffff
+261550301005075,400,10,15,3708104,130734,Lennon Telephone Company,50,1,R,MI,88274d033bfffff

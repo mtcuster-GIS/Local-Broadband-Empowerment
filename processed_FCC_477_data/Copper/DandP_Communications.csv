@@ -1,0 +1,14 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260590506003063,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,88274900c9fffff
+260910606003000,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749b997fffff
+260910613012001,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa0dfffff
+260910613024002,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa05fffff
+260910614001006,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa61fffff
+260910615003013,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749ab19fffff
+260910616001000,0,0,1,8814816,130385,D&P Communications,10,0,B,MI,882749aa21fffff
+260910616001004,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa25fffff
+260910616001023,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa27fffff
+260910616001029,0,0,1,8814816,130385,D&P Communications,10,0,B,MI,882749a849fffff
+260910616002022,0,0,1,8814816,130385,D&P Communications,10,0,B,MI,882749aa23fffff
+260910616003001,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749aa07fffff
+260910617024022,0,0,1,8814816,130385,D&P Communications,10,0,R,MI,882749a95bfffff

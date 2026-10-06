@@ -1,0 +1,4 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260992324002003,10,1,1,5044375,360117,"Fusion Cloud Services, Inc.",10,1,B,MI,882ab2c26bfffff
+261614142003005,0,0,1,5044375,360117,"Fusion Cloud Services, Inc.",10,1,B,MI,882ab25983fffff
+261635039001039,0,0,1,5044375,360117,"Fusion Cloud Services, Inc.",10,1,B,MI,882ab2c719fffff

@@ -1,0 +1,5 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+261251360004000,0,0,1,3764487,130499,First Communications,50,0,B,MI,88274d3497fffff
+261614540021003,0,0,1,3764487,130499,First Communications,50,0,B,MI,8827499701fffff
+261635735013000,0,0,1,3764487,130499,First Communications,50,0,B,MI,882ab2cea1fffff
+261635799004005,0,0,1,3764487,130499,First Communications,50,0,B,MI,882ab2cc31fffff

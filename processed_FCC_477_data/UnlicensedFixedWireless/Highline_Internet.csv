@@ -1,0 +1,8 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+261030001002022,100,100,2,30311567,460005,Highline Internet,70,1,X,MI,8827444a65fffff
+261030003002001,100,100,1,30311567,460005,Highline Internet,70,1,X,MI,8827444b5bfffff
+261030003002010,100,100,2,30311567,460005,Highline Internet,70,1,X,MI,8827444b5dfffff
+261030003002016,100,100,1,30311567,460005,Highline Internet,70,1,X,MI,8827444b51fffff
+261030004002013,100,100,1,30311567,460005,Highline Internet,70,1,X,MI,8827444b5dfffff
+261030018002026,100,100,1,30311567,460005,Highline Internet,70,1,X,MI,882746872bfffff
+261030029021082,100,100,1,30311567,460005,Highline Internet,70,1,X,MI,88277129abfffff

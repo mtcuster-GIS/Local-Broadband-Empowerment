@@ -1,0 +1,4 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260873325001010,1000,1000,8,21633987,430062,Northern Broadband,50,1,X,MI,882ab64b69fffff
+260873325002008,1000,1000,1,21633987,430062,Northern Broadband,50,1,X,MI,882ab64b2bfffff
+260873325002009,1000,1000,1,21633987,430062,Northern Broadband,50,1,X,MI,882ab64b05fffff

@@ -1,0 +1,4 @@
+block_geoid,max_advertised_download_speed,max_advertised_upload_speed,count,frn,provider_id,brand_name,technology,low_latency,business_residential_code,state_usps,h3_res8_id
+260450213023028,50,50,1,16555849,130982,"Zayo Network Services, LLC",10,1,B,MI,882749d16dfffff
+261251974003006,100,100,1,16555849,130982,"Zayo Network Services, LLC",10,1,B,MI,882ab2c351fffff
+261635207001000,100,100,1,16555849,130982,"Zayo Network Services, LLC",10,1,B,MI,882ab2c58dfffff
